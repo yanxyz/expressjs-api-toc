@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+footer {
+  margin-top: auto;
+}
+
+#filter {
+  width: 50%;
+}
+
+#menu {
+  display: flex;
+  list-style: none;
+}
+
+a {
+  color: #259dff;
+  text-decoration: none;
+}
+
+#menu2 {
+  display: none;
+}
+
+.filtering #menu2 {
+  display: block;
+}
+
+.filtering #menu {
+  display: none;
+}

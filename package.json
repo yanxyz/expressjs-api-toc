@@ -1,0 +1,12 @@
+{
+  "name": "expressjs-api-toc",
+  "version": "1.0.0",
+  "description": "expressjs api toc",
+  "author": "Ivan Yan",
+  "license": "MIT",
+  "private": true,
+  "repository": "yanxyz/expressjs-api-toc#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1"
+  }
+}
